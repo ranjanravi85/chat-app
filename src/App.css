@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.user-list-container {
+  padding: 50px;
+  border-top: 3px solid #bbb;
+  overflow: auto;
+}
