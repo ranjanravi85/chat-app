@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@cometchat-pro/chat": "^2.4.0",
+    "@cometchat/chat-sdk-javascript": "^4.0.5",
     "@emotion/core": "^10.0.35",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
